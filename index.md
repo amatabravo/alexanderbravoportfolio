@@ -34,9 +34,11 @@
 <img src="images/albert einstein.jpg?raw=true>
 ---
 [Project 3 Tell a story](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true>
+<img src="images/greenday.jpg?raw=true>
 
 ---
+[Project 4 Christmas card](http://example.com/)
+<img src="images/christmascard.jpg?raw=true>
 
 
 
