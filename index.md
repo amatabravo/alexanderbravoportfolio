@@ -4,8 +4,8 @@
 
 ### My Web Design Project
 
-[Project 1 Earth PJ](/sample_page)
-<img src="(https://github.com/amatabravo/alexanderbravoportfolio/blob/master/images/pixlr.jpg?raw=true)"/>
+[Project 1 ](/sample_page)
+<img src="(popart.jpg?raw=true)"/>
 
 ---
 [Project 2 Celebrity project](/pdf/sample_presentation.pdf)
