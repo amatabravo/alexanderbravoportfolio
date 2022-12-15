@@ -27,18 +27,18 @@
 ### My graphic design project 
 
 [Project 1 Pop art](/sample_page)
-<img src="images/pop art.jpg?raw=true>
+<img src="images/pop art.jpg?raw=true/>
 
 ---
 [Project 2 Stencil Art]
-<img src="images/albert einstein.jpg?raw=true>
+<img src="images/albert einstein.jpg?raw=true/>
 ---
-[Project 3 Tell a story](http://example.com/)
-<img src="images/greenday.jpg?raw=true>
+[Project 3 Green Day](http://example.com/)
+<img src="images/greenday.jpg?raw=true/>
 
 ---
 [Project 4 Christmas card](http://example.com/)
-<img src="images/christmascard.jpg?raw=true>
+<img src="images/christmascard.jpg?raw=true/>
 
 
 
