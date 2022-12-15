@@ -2,30 +2,37 @@
 
 ---
 
-### Category Name 1 
+### My Web Design Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Earth PJ](/sample_page)
+<img src="(https://trinket.io/html/421b7ace9c?runMode=autorun)"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Celebrity project](/pdf/sample_presentation.pdf)
+<img src="(https://trinket.io/html/7bc9715147?runMode=autorun)"/>
+
+---
+[Project 3 Tell a story](http://example.com/)
+<img src="(https://trinket.io/html/0158dd8a31?runMode=autorun)"/>
 
 ---
 
-### Category Name 2
+### My graphic design project 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Project 1 Earth PJ](/sample_page)
+<img src="[images/dummy_thumbnail.jpg?raw=true](https://trinket.io/html/421b7ace9c?runMode=autorun)"/>
 
 ---
+[Project 2 Celebrity project](/pdf/sample_presentation.pdf)
+<img src="[images/dummy_thumbnail.jpg?raw=true](https://trinket.io/html/7bc9715147?runMode=autorun)"/>
+
+---
+[Project 3 Tell a story](http://example.com/)
+<img src="[images/dummy_thumbnail.jpg?raw=true](https://trinket.io/html/0158dd8a31?runMode=autorun)"/>
+
+---
+
+
 
 
 
