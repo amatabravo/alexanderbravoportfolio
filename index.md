@@ -5,16 +5,15 @@
 ### My Web Design Project
 
 [Project 1 Robot ]
-<img src="(https://trinket.io/html/06f214ed37))"/>
+(https://trinket.io/html/06f214ed37)
 
 ---
 [Project 2 Celebrity project]
-<img src="(https://trinket.io/html/7bc9715147?runMode=autorun)"/>
+(https://trinket.io/html/7bc9715147?runMode=autorun)
 
 ---
-[Project 3 Albert Einstein]
-<img src="images/albert einstein.jpg?raw=true"/>
-
+[Project 3 sunrise animation]
+(https://trinket.io/html/46b1ed3ee9)
 
 ---
 [Project 4 halloween click](http://example.com/)
