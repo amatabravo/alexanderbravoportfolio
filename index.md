@@ -27,7 +27,7 @@
 
 ### My graphic design project 
 
-[Project 1 Earth PJ](/sample_page)
+[Project 1 Pop art](/sample_page)
 <img src="images/pop art.jpg?raw=true>
 
 ---
