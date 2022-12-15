@@ -25,14 +25,14 @@
 ### My graphic design project 
 
 [Project 1 Earth PJ](/sample_page)
-<img src="[images/dummy_thumbnail.jpg?raw=true]
+<img src="images/dummy_thumbnail.jpg?raw=true>
 
 ---
 [Project 2 Stencil Art]
-<img src="[images/albert einstein.jpg?raw=true]
+<img src="images/albert einstein.jpg?raw=true>
 ---
 [Project 3 Tell a story](http://example.com/)
-<img src="[images/dummy_thumbnail.jpg?raw=true]
+<img src="images/dummy_thumbnail.jpg?raw=true>
 
 ---
 
