@@ -13,14 +13,17 @@
 
 ---
 [Project 3 Tell a story]
-<img src="(https://trinket.io/html/0158dd8a31?runMode=autorun)"/>
+<img src="images/albert einstein.jpg?raw=true"/>
+
 
 ---
 [Project 4 halloween click](http://example.com/)
-<img src="((https://trinket.io/html/6d1bc6967c))"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 [Project 5 Tell a story](http://example.com/)
-<img src="((https://trinket.io/html/46b1ed3ee9))"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### My graphic design project 
 
