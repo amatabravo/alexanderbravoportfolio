@@ -12,16 +12,14 @@
 (https://trinket.io/html/7bc9715147?runMode=autorun)
 
 ---
-[Project 3 sunrise animation]
-(https://trinket.io/html/46b1ed3ee9)
+[Project 3 sunrise animation](https://trinket.io/html/46b1ed3ee9)
 
 ---
-[Project 4 halloween click](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 4 halloween](https://trinket.io/html/6d1bc6967c)
 
 
-[Project 5 Tell a story](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 5 Tell a story](https://trinket.io/html/eacfd9d8ce)
+
 
 
 ### My graphic design project 
