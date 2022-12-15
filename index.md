@@ -12,7 +12,7 @@
 <img src="(https://trinket.io/html/7bc9715147?runMode=autorun)"/>
 
 ---
-[Project 3 Tell a story]
+[Project 3 Albert Einstein]
 <img src="images/albert einstein.jpg?raw=true"/>
 
 
@@ -28,7 +28,7 @@
 ### My graphic design project 
 
 [Project 1 Earth PJ](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true>
+<img src="images/pop art.jpg?raw=true>
 
 ---
 [Project 2 Stencil Art]
